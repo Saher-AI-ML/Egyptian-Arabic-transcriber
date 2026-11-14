@@ -9,7 +9,7 @@ An end-to-end project focused on evaluating speech recognition models for Egypti
 
 ## Tech Stack
 
-**Python · PyTorch · Hugging Face · Whisper · Jais-ASR · Silero VAD · LangChain · Gradio · FFmpeg · jiwer · Google Colab**
+**Python · LangChain · Hugging Face · Whisper · Jais-ASR · Silero VAD · Gradio · FFmpeg · jiwer**
 
 ## ASR Benchmark Results
 
